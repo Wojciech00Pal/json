@@ -5,7 +5,7 @@
     "data_od": "2020-02-03",
     "data_do": "2020-03-03",
     "miejsce_wyjazdu": "Poznan",
-    "miejsce_przyjazdu": "Wroclaw"
+    "miejsce_przyjazdu": "Gdansk"
 },
 {
     "lp": "2",
@@ -29,8 +29,8 @@
     "lp": "4",
     "imie": "Adam",
     "nazwisko": "Nowak",
-    "data_od": "2020-02-03",
-    "data_do": "2020-03-03",
+    "data_od": "2020-02-08",
+    "data_do": "2020-03-23",
     "miejsce_wyjazdu": "Poznan",
     "miejsce_przyjazdu": "Wroclaw"
 },
@@ -40,7 +40,7 @@
     "nazwisko": "Nowak",
     "data_od": "2020-02-03",
     "data_do": "2020-03-03",
-    "miejsce_wyjazdu": "Poznan",
+    "miejsce_wyjazdu": "Warszawa",
     "miejsce_przyjazdu": "Wroclaw"
 },
 {
@@ -48,7 +48,7 @@
     "imie": "Adam",
     "nazwisko": "Nowak",
     "data_od": "2020-02-03",
-    "data_do": "2020-03-03",
-    "miejsce_wyjazdu": "Poznan",
+    "data_do": "2020-03-13",
+    "miejsce_wyjazdu": "Gdynia",
     "miejsce_przyjazdu": "Wroclaw"
 }]
